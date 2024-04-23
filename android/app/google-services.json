@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527946304001",
+    "project_id": "skinserenitydb-9729b",
+    "storage_bucket": "skinserenitydb-9729b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527946304001:android:62e363c84e0c582dacce00",
+        "android_client_info": {
+          "package_name": "com.example.skinserenityapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpAV4mnCSwoLji5X3Rwe9WEibhWnCqARY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
